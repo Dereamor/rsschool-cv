@@ -32,7 +32,7 @@ return num + 1;
 * **St. Petersburg State Transport University**
 * Construction of railways, bridges and transport tunnels
 * **Rolling Scopes School**
-* Front-end Developer (in process.)
+* Front-end Developer stage 1 (in process.)
 # Languages
 * **Russian** - native speaker.
 * **English** - A2 (B1 in process)
